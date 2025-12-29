@@ -4,7 +4,7 @@
 # Ganti URL ini dengan link Raw file 'stack-app.sh' milik Anda (GitHub Gist / GitHub Repo / lainnya)
 # PENTING: Jika menggunakan GitHub Repo, pastikan klik tombol 'Raw' dan copy URL-nya.
 # URL biasanya berawalan: https://raw.githubusercontent.com/  atau https://gist.githubusercontent.com/
-URL_SCRIPT_APLIKASI="https://raw.githubusercontent.com/idcloudhost/cloud-init-wordpress/refs/heads/master/stack-app.sh"
+URL_SCRIPT_APLIKASI="https://raw.githubusercontent.com/idcloudhost/cloud-init-wordpress-vm/refs/heads/master/stack-app.sh"
 
 # Variable Dummy untuk Login Registry
 # Ini mensimulasikan kebutuhan akses ke Private Docker Registry
